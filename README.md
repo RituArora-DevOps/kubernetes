@@ -10,5 +10,3 @@ Here in this Kubernetes repository, you can find numerous projects on Kubernetes
 Let's get started.
 
 
-kubeadm join 172.31.81.132:6443 --token yl9ahi.70t0ch0hx0pd2ove \
-        --discovery-token-ca-cert-hash sha256:9f6e1e48a3636b1e75f6e8a1e86f665317b5331ab62c43e6166fc540d0245ab1
